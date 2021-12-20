@@ -1,8 +1,1 @@
-/.env
-/geckodriver.exe
-/geckodriver.log
-/__pycache__
-commands.json
-reactions.json
-/**/input.txt
-GetInput.py
+TOKEN
